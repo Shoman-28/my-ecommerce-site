@@ -1,0 +1,108 @@
+
+
+
+/* =======Extra css start======== */
+
+.coustom-border{
+    border-radius: 1.25rem !important;
+}
+
+/* =======Extra css======== */
+
+/* =======nab-items start======== */
+header{
+    
+}
+.navbar-brand img{
+    width: 90px;
+    height: 90px;
+}
+.coustom-nav-link{
+    font-size: 18px;
+    color: lightslategrey !important;
+}
+.coustom-nav-link:hover{
+    color: #000000 !important;
+}
+/* =======nab-items end======== */
+
+/* =======slider-items start======== */
+.slider-background{
+    background-color: #fceae8;
+     
+    border-radius: 1.25rem !important;
+
+}
+/* =======slider-items end======== */
+
+
+/* =======main contant start======== */
+
+
+/* =======categories section start======== */
+.custom-categories{
+
+}
+.custom-categories img{
+    width: 100px;
+    height: 100px;
+}
+
+
+/* =======categories section end======== */
+
+/* =======shoes section end======== */
+.custom-card{
+    border: 0px;
+    background-color: #fff;
+}
+/* =======shoes section end======== */
+
+/* =======backpack section start======== */
+
+/* =======backpack section end======== */
+
+/* =======subscribe section start======== */
+.custom-subscribe{
+    background-color: #fceae8;
+    height: 300px;
+}
+
+/* =======subscribe section end======== */
+
+
+
+/* =======main contant end======== */
+
+
+
+/* =======footer section start======== */
+
+#coustom-footer{
+    background-color: lightslategrey;
+}
+ .google-img{
+    width: 200px;
+    width: 180px;
+
+}
+.google-img, .apple-img:hover{
+    cursor: pointer;
+    
+}
+.apple-img{
+    width: 200px;
+    width: 180px;
+}
+.coustom-copyright small, .coustom-font h1, .coustom-font h2, .coustom-font h6 {
+    color: #ffffff;
+}
+.custom-icon i{
+    color: #fff;
+    font-size: 25px;
+}
+.custom-icon :hover i{
+    color: #f9b7b7;
+    
+}
+/* =======footer section end======== */
